@@ -47,6 +47,8 @@ $ npm install
 ### Running the project (from browser) 
 To run the project for the first time, run the following command: 
 ```sh
+$ ionic start sass
+
 $ ionic serve
 ```
 
@@ -59,6 +61,7 @@ To run the project on IOS for the first time, run the following commands:
 ```sh
 $ npm install ios-sim -g
 $ ionic platform add ios
+$ cordova ionic build ios
 $ ionic build ios
 $ ionic run ios
 ```
