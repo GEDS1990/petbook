@@ -47,8 +47,6 @@ $ npm install
 ### Running the project (from browser) 
 To run the project for the first time, run the following command: 
 ```sh
-$ ionic start sass
-
 $ ionic serve
 ```
 
