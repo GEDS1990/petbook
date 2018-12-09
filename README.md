@@ -58,7 +58,7 @@ If you use your local backend, you will need to run your node server. You can cl
 To run the project on IOS for the first time, run the following commands: 
 ```sh
 $ npm install ios-sim -g
-$ ionic platform add ios
+$ ionic cordova platform add ios
 $ ionic cordova build ios
 $ ionic build ios
 $ ionic run ios
