@@ -59,7 +59,7 @@ To run the project on IOS for the first time, run the following commands:
 ```sh
 $ npm install ios-sim -g
 $ ionic platform add ios
-$ cordova ionic build ios
+$ ionic cordova build ios
 $ ionic build ios
 $ ionic run ios
 ```
